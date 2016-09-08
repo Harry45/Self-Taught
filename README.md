@@ -1,8 +1,7 @@
 <h1>Masters Project at UCT</h1>
 
 <section>
-	<p align="justify">This private repository contains all the relevant materials I shall be using for my Master's thesis
-	at the University of Cape Town. My supervisor is <a href="https://cosmoaims.wordpress.com/2010/01/01/bruce-bassett/">Prof Bruce Bassett</a> and I am currently working on applying Bayesian Inference techniques to Radio Astronomy. I am currently registered at <a href="http://www.uct.ac.za/">University of Cape Town (UCT)</a>.</p>
+	<p align="justify">This repository contains all the codes I write during my free time. My supervisor is <a href="https://cosmoaims.wordpress.com/2010/01/01/bruce-bassett/">Prof Bruce Bassett</a> and I am currently working on applying Bayesian Inference techniques to Radio Astronomy. I am currently registered at <a href="http://www.uct.ac.za/">University of Cape Town (UCT)</a>.</p>
 </section>
 
 <p align="center"><img src="Figures/uctlogo.gif" alt="uct_logo" width="300" height="300"></p>
