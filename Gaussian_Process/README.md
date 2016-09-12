@@ -28,4 +28,4 @@ Below, we consider two examples: noise-free and a noisy. We show how the Gaussia
   <li>Why does the code complains when I have for example, more than 20 data points? Is it hard to compute the inverse of the matrix?</li>
 </ul>
 
-We need to adress the above-mentioned points!
+The above-mentioned points need to be addressed!
