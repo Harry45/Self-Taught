@@ -4,7 +4,7 @@ In the most simple term, one can think of Gaussian Process as being distribution
 
 ## Examples
 
-<p align="center"><img src="Figures/example_1_uniform.png" alt="uniform_gp" width="100%" height="100%"></p>
-<p align="center"><img src="Figures/example_1_non_uniform.png" alt="non_uniform_gp" width="100%" height="100%"></p>
+<p align="center"><img src="Figures/example_1_uniform.png" alt="uniform_gp" width="60%" height="60%"></p>
+<p align="center"><img src="Figures/example_1_non_uniform.png" alt="non_uniform_gp" width="60%" height="60%"></p>
 
 ### Further Implementations
