@@ -23,7 +23,7 @@ Below, we consider two examples: noise-free and a noisy. We show how the Gaussia
 ### Further Implementations
 
 <ul>
-  <li>Learn parameters of the kernel using the Maximum Likelihood Estimator (MLE) via optimisation (needs to be implemented)</li>
+  <li>Learn parameters of the kernel using the Maximum Likelihood Estimator (MLE) via optimisation (needs to be implemented). At the moment, we have simply fixed the parameters manually. However, the best is to learn these parameters from the data!</li>
   <li>How to ensure that the kernel, matrix is semi-positive definite? Is that a numerical issue?</li>
   <li>Why does the code complains when I have for example, more than 20 data points? Is it hard to compute the inverse of the matrix?</li>
 </ul>
