@@ -23,7 +23,9 @@ Below, we consider two examples: noise-free and a noisy. We show how the Gaussia
 ### Further Implementations
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Learn parameters of the kernel using the Maximum Likelihood Estimator (MLE) via optimisation (needs to be implemented)</li>
+  <li>How to ensure that the kernel, matrix is semi-positive definite? Is that a numerical issue?</li>
+  <li>Why does the code complains when I have for example, more than 20 data points? Is it hard to compute the inverse of the matrix?</li>
 </ul>
+
+We need to adress the above-mentioned points!
