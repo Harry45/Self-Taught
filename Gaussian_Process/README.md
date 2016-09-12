@@ -7,8 +7,17 @@
 
 
 ## Examples
+Below, we consider two examples: noise-free and a noisy. We show how the Gaussian Process performs well in the noise-free and equally-spaced data as shown below.
 
 <p align="center"><img src="Figures/example_1_uniform.png" alt="uniform_gp" width="60%" height="60%"></p>
+
+On the other hand, we generate noisy data, which are not equally-spaced. The point which we are mostly interested in is that the Gaussian Process basically demonstrates the level of confidence when we have or do not have data. As expected, we would be more confident when we have more data, and less confident when we don't have data.
 <p align="center"><img src="Figures/example_1_non_uniform.png" alt="non_uniform_gp" width="60%" height="60%"></p>
 
 ### Further Implementations
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
