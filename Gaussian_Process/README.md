@@ -7,7 +7,9 @@
 
 
 ## Examples
-Below, we consider two examples: noise-free and a noisy. We show how the Gaussian Process performs well in the noise-free and equally-spaced data as shown below.
+Below, we consider two examples: noise-free and a noisy. We show how the Gaussian Process performs well in the noise-free and equally-spaced data as shown below. We consider a simple sinusoidal function of the form 
+
+<p align="center"><img src="Figures/sin_function.png" alt="sin_function" width="30%" height="30%"></p>
 
 <p align="center"><img src="Figures/example_1_uniform.png" alt="uniform_gp" width="60%" height="60%"></p>
 
